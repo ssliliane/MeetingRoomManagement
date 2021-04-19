@@ -1,0 +1,1 @@
+Desenvolvimento de um sistema de gerenciamento de sala de reuniões com Java e Angular. Projeto desenvolvido como parte dos estudos de bootcamp da Digital Inovation One.
